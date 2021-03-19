@@ -1,7 +1,7 @@
 Django>=2.0,<3.0
 scikit-learn
 mord
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 numpy
 pandas
 nltk
